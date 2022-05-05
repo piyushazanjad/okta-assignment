@@ -25,6 +25,7 @@ ISSUER=https://dev-48213059.okta.com/oauth2/default
 CLIENT_ID=0oa4dpvj0uM3ouCrJ5d7
 SPA_CLIENT_ID=0oa4dpvj0uM3ouCrJ5d7
 
+
 Step 4 - cd into okta-hosted-login folder and run the following command to install the node modules
 
 npm install
