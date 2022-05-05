@@ -1,5 +1,6 @@
 # okta-todo
 
+This is an application to create and view todos integrated with Okta hosted login. 
 
 Step 1 - Clone the repository 
 
@@ -9,14 +10,14 @@ Step 2 - Install MongoDB using this documentation - https://www.mongodb.com/docs
 
 You can download MongoDB Compass (the GUI for MongoDB) from this link - https://www.mongodb.com/try/download/compass 
 
-After installing the above, mongodb will start running on post 27017.
+After installing the above, mongodb will start running on port 27017.
 
 Please follow the below instructions to create database and collections in MongoDB - https://www.mongodb.com/basics/create-database?fbclid=IwAR3bgtmBVUsNiL0mQLmLrFAWoFIvQkRFSxtCgR3tH7fEJn9ro8uvOgKCwZY
 
 * Create a database named “todosdb”
 * Create a collection named “todos” 
 
-This will he used to store the todo list of the users. 
+This will be used to store the todo list of the users. 
 
 Step 3 - Set the following Environment variables. Please visit the readme to get more information on where to find the values -  https://github.com/okta/samples-js-react 
 
