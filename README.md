@@ -4,7 +4,7 @@ This is an application to create and view todos integrated with Okta hosted logi
 
 Step 1 - Clone the repository 
 
-git clone https://github.com/piyushazanjad/okta-todo.git
+<pre><code>git clone https://github.com/piyushazanjad/okta-todo.git</code></pre>
 
 Step 2 - Install MongoDB using this documentation - https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/?fbclid=IwAR0KbxyNvrLwTuCQ-Bpo9RhmOCpAiurU-kaHjhbmvJJ8sGCfrU3phHDCclQ 
 
