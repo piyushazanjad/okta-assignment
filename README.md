@@ -28,23 +28,23 @@ Step 3 - Set the following Environment variables. Please visit the readme to get
 
 Step 4 - cd into okta-hosted-login folder and run the following command to install the node modules
 
-npm install
+<pre><code>npm install</code></pre>
 
 Step 5 - Run the following command from directory “okta-hosted-login“ to start the server on localhost 8080
 
-npm start
+`npm start`
 
 Step 6 - cd into “samples-nodejs-express-4”  folder and run the following command to install the node modules
 
-npm install
+`npm install`
 
 Step 7 - Run the following command to start the resource server on localhost 8000
 
-npm run resource-server
+`npm run resource-server`
 
 Step 8 - You can use this test user to login into the application : 
 
-Username : abc@gmail.com
-Password : test@123
+`Username : abc@gmail.com
+Password : test@123`
 
 Step 9 - Access http://localhost:8080/todo to view all the todos and add new todos. 
