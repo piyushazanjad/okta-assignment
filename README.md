@@ -28,7 +28,7 @@ Step 3 - Set the following Environment variables. Please visit the readme to get
 
 Step 4 - cd into okta-hosted-login folder and run the following command to install the node modules
 
-<pre><code>npm install</code></pre>
+`npm install`
 
 Step 5 - Run the following command from directory “okta-hosted-login“ to start the server on localhost 8080
 
