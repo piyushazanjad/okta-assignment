@@ -21,9 +21,9 @@ This will be used to store the todo list of the users.
 
 Step 3 - Set the following Environment variables. Please visit the readme to get more information on where to find the values -  https://github.com/okta/samples-js-react 
 
-ISSUER=https://dev-48213059.okta.com/oauth2/default
-CLIENT_ID=0oa4dpvj0uM3ouCrJ5d7
-SPA_CLIENT_ID=0oa4dpvj0uM3ouCrJ5d7
+- ISSUER=https://dev-48213059.okta.com/oauth2/default
+- CLIENT_ID=0oa4dpvj0uM3ouCrJ5d7
+- SPA_CLIENT_ID=0oa4dpvj0uM3ouCrJ5d7
 
 
 Step 4 - cd into okta-hosted-login folder and run the following command to install the node modules
