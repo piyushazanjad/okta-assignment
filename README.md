@@ -44,7 +44,7 @@ Step 7 - Run the following command to start the resource server on localhost 800
 
 Step 8 - You can use this test user to login into the application : 
 
-`Username : abc@gmail.com
-Password : test@123`
+- `Username : abc@gmail.com`
+- `Password : test@123`
 
 Step 9 - Access http://localhost:8080/todo to view all the todos and add new todos. 
