@@ -1,7 +1,7 @@
 # okta-todo
 
 
-Step1 - Clone the repository 
+Step 1 - Clone the repository 
 
 git clone https://github.com/piyushazanjad/okta-todo.git
 
